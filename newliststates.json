@@ -1,0 +1,40 @@
+{
+  "states": [
+    {
+      "abbreviation": "AL",
+      "name": "Alabama"
+    },
+    {
+      "abbreviation": "AK",
+      "name": "Alaska"
+    },
+    {
+      "abbreviation": "AZ",
+      "name": "Arizona"
+    },
+    {
+      "abbreviation": "AR",
+      "name": "Arkansas"
+    },
+    {
+      "abbreviation": "CA",
+      "name": "California"
+    },
+    {
+      "abbreviation": "CO",
+      "name": "Colorado"
+    },
+    {
+      "abbreviation": "CT",
+      "name": "Connecticut"
+    },
+    {
+      "abbreviation": "DE",
+      "name": "Delaware"
+    },
+    {
+      "abbreviation": "FL",
+      "name": "Florida"
+    }
+  ]
+}

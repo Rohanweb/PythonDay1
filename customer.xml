@@ -1,0 +1,38 @@
+<customers>
+    <customer id="101" phone="3343-78888">
+        <name>Prince Kazmi</name>
+        <address>Delhi</address>
+        <email>prince@gmail.com</email>
+    </customer>
+     <customer id="102">
+        <name>Vikram Kapoor</name>
+        <address>Japiur</address>
+        <email>vikram@gmail.com</email>
+    </customer>
+     <customer id="103">
+        <name>Vishal Aggarwal</name>
+        <address>Delhi</address>
+        <email>vishal@gmail.com</email>
+    </customer>
+     <customer id="104" phone="3489-98989">
+        <name>Tarun Mathur</name>
+        <address>Delhi</address>
+        <email>tarun@gmail.com</email>
+    </customer>
+     <customer id="105">
+        <name>Dinesh Balinga</name>
+        <address>Bangalore</address>
+        <email>dinesh@gmail.com</email>
+    </customer>
+     <customer id="106" phone="5656-67677">
+        <name>Neeraj Awasthi</name>
+        <address>Delhi</address>
+        <email>neeraj@gmail.com</email>
+    </customer>
+     <customer id="109">
+        <name>Arun Kaul</name>
+        <address>Delhi</address>
+        <email>arun@gmail.com</email>
+    </customer>
+
+</customers>

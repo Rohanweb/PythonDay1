@@ -1,0 +1,15 @@
+{
+  "empcode": 101,
+  "empname": "Prince",
+  "states" : [
+    {
+      "statename": "Delhi",
+      "statecode": "DEL",
+      "areacodes": [
+
+      ]
+    }
+
+  ]
+
+}
