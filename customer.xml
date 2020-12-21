@@ -1,7 +1,7 @@
-<customers>
+<?xml version="1.0" ?><customers>
     <customer id="101" phone="3343-78888">
         <name>Prince Kazmi</name>
-        <address>Delhi</address>
+        <address>Jaipur</address>
         <email>prince@gmail.com</email>
     </customer>
      <customer id="102">
